@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <item android:id="@+id/voucher"
+        android:title="Voucher"
+        android:icon="@drawable/ic_baseline_card_giftcard_24"/>
+    <item android:id="@+id/badge"
+        android:title="Badge"
+        android:icon="@drawable/ic_baseline_assistant_24"/>
+    <item android:id="@+id/ft"
+        android:title="Fashion Tracker"
+        android:icon="@drawable/ic_baseline_storefront_24"/>
+    <item android:id="@+id/desw"
+        android:title="Design of the week"
+        android:icon="@drawable/ic_baseline_auto_awesome_24"/>
+    <item android:id="@+id/about_us"
+        android:title="About Us"
+        android:icon="@drawable/ic_baseline_info_24"/>
+    <item android:id="@+id/exit"
+        android:title="Exit"
+        android:icon="@drawable/ic_baseline_settings_backup_restore_24"/>
+</menu>

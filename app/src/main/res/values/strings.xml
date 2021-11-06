@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mynta Hackerramp</string>
+    <string name="your_fashion_taste_has_been_added_successfully_we_will_notify_you_once_whenever_any_product_relating_to_it_would_be_launched">Your fashion taste has been added successfully. We will notify you once whenever any product relating to it would be launched.</string>
+    <string name="your_design_has_been_uploaded_successfully_the_winners_will_be_decided_on_the_basis_of_uniqness_from_the_existing_product">Your design has been uploaded successfully, The winners will be decided on the basis of uniqness from the existing product.</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+</resources>
